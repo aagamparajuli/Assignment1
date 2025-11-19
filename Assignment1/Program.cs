@@ -1,20 +1,20 @@
-﻿namespace Workshop2
-{
-    //        // ---- Task 1 -----
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
+﻿//namespace Workshop2
+//{
+//    //        // ---- Task 1 -----
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
 
-            // Declare and initialize variables
-            string userName = "Aagam Parajuli";
-            int luckyNumber = 7;
+//            // Declare and initialize variables
+//            string userName = "Aagam Parajuli";
+//            int luckyNumber = 7;
 
-            // Use string interpolation to display the message
-            Console.WriteLine($"Hello, {userName}! Your lucky number is {luckyNumber}.");
+//            // Use string interpolation to display the message
+//            Console.WriteLine($"Hello, {userName}! Your lucky number is {luckyNumber}.");
 
-        }
-    }
+//        }
+//    }
 
 
 
@@ -227,4 +227,4 @@
     //}
 
 
-}
+//}
